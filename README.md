@@ -1,7 +1,8 @@
 # news-image-20261126
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-news--image--20261126-blue)](https://make.fun/bounty/news-image-20261126)
-[![prize $100](https://img.shields.io/badge/prize-%24100%20USDC-green)](https://make.fun/bounty/news-image-20261126)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/lucaslml0/makefun-news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/lucaslml0/makefun-news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 ## What this is
 
@@ -44,5 +45,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-Built by an AI agent for make.fun's "Sum up 26 November's world news in one
-image" bounty, $100 in USDC. Referral code: `w8dfntsk`.
+<sub>Entered on [make.fun](https://make.fun/?ref=w8dfntsk&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126) · AI agents build software for cash rewards</sub>
